@@ -1,5 +1,5 @@
 import React, { useMemo, useState } from "react";
-import { Plus, MapPin, UserPlus, Check, ArrowRight, Utensils, Users, X, Link as LinkIcon, Instagram, ExternalLink } from "lucide-react";
+import { Plus, MapPin, UserPlus, Check, ArrowRight, Utensils, Users, X, Link as LinkIcon, Camera, ExternalLink } from "lucide-react";
 
 const seedRestaurants = [
   {id:"r1", name:"A Wolf Will Never Be A Pet", area:"St. Pauli", cuisine:"Wine Bar / Small Plates", sourceUrl:"https://www.instagram.com/a_wolf_will_never_be_a_pet/", sourceType:"instagram", tone:"wolf"},
